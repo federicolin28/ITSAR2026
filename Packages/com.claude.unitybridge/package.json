@@ -1,0 +1,10 @@
+{
+  "name": "com.claude.unitybridge",
+  "version": "1.0.0",
+  "displayName": "Claude Unity Bridge",
+  "description": "Server HTTP locale dentro l'Editor di Unity che permette a Claude Code (o al browser) di leggere la console, compilare, avviare il play mode, ispezionare e modificare la scena, eseguire metodi statici e lanciare i test.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Matteo Mezzetti"
+  }
+}

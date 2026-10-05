@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="Claude.UnityBridge.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>

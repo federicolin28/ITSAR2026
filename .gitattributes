@@ -1,0 +1,18 @@
+# Normalizza i fine riga dei file di testo
+* text=auto
+
+# Asset Unity serializzati in testo: trattati come YAML, merge con lo Smart Merge di Unity se necessario
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.inputactions text eol=lf
+*.cs text diff=csharp
+
+# Binari
+*.png binary
+*.jpg binary
+*.fbx binary
+*.wav binary
+*.mp3 binary

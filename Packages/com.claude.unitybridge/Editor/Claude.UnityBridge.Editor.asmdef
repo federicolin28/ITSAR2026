@@ -1,0 +1,25 @@
+{
+    "name": "Claude.UnityBridge.Editor",
+    "rootNamespace": "ClaudeBridge",
+    "references": [
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.test-framework",
+            "expression": "1.1.0",
+            "define": "CLAUDE_BRIDGE_TESTS"
+        }
+    ],
+    "noEngineReferences": false
+}
